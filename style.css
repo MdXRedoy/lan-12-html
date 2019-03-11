@@ -1,0 +1,17 @@
+p {
+	color: dark green;
+}
+h1 {
+	color: #888888;
+}
+h2 {
+	color: dark green;
+}
+.intro {
+	color: black
+	font-weight: solid;
+	padding: 1px
+}
+.spotlight {
+	background-color: yellow;
+}
